@@ -1,2 +1,1 @@
-# Playground
-Skyrim Scripting Project Playground
+![Playground](Resources/Images/Logo.png)
